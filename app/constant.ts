@@ -330,6 +330,7 @@ const googleModels = [
   "gemini-1.5-flash-8b-exp-0924",
   "gemini-exp-1114",
   "gemini-exp-1121",
+  "gemini-exp-1206",
   "learnlm-1.5-pro-experimental",
   "gemini-pro-vision",
 ];
