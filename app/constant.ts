@@ -539,6 +539,7 @@ const openaiModels = [
   "o3-mini",
   "o3",
   "o4-mini",
+  "qwen3.8-27b",
 ];
 
 const googleModels = [
