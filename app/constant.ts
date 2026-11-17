@@ -567,6 +567,8 @@ const googleModels = [
   "gemini-2.5-pro-preview-06-05",
   "gemini-2.5-pro",
   "gemini-4-hydrogen",
+  "gemini-3.5-flash-lite",
+  "gemini-flash-lite-latest",
 ];
 
 const anthropicModels = [
